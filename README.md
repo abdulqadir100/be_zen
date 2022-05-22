@@ -31,7 +31,7 @@ The zipped dataset was downloaded from  `google drive` using `gdown` and extract
  `pandas`was used to load a chunksize of `100000` from the data for easy processing while `matplotlib` and `seaborn` was used for the visualization.
 
 ### Running the code
-* The code are all in a jupyter-notebook : restart the kernel and run all cells from google colab or jupyter notebook locally to view outputs
+* The codes are all in a jupyter-notebook : restart the kernel and run all cells from google colab or jupyter notebook locally to view outputs
 
 ### Results Obtained
 Due to the size of the data, `Pyspark` was use since it would not load data into the RAM unless a computation is required.\
