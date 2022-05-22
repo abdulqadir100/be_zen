@@ -4,10 +4,10 @@
 The CSV file used has the following details about products from various ecommerce sites.
 * UUID (Primary Key)
 * Price (String)
-*Price_unfiltered (String)
-*Product Type
-*Category
-*Level 1 -> This is just a classification of a product.
+* Price_unfiltered (String)
+* Product Type
+* Category
+* Level 1 -> This is just a classification of a product.
 
 The following Task from the data was used to find the following results.
 1. Products without prices
