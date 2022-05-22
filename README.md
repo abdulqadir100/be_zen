@@ -2,7 +2,8 @@
 
 ### Requirements
 
-> !pip install pyunpack
+<code><pre>
+!pip install pyunpack
 !pip install rarfile
 !pip install patool
 !pip install gdown
@@ -13,7 +14,7 @@
 !pip install seaborn
 !pip install pyspark
 !pip install findspark
-
+</code></pre>
 ### Data Set
 The CSV file used has the following details about products from various ecommerce sites.
 * UUID (Primary Key)
