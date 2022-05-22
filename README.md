@@ -2,7 +2,7 @@
 
 ### Requirements
 
-!pip install pyunpack
+> !pip install pyunpack
 !pip install rarfile
 !pip install patool
 !pip install gdown
