@@ -1,7 +1,7 @@
 # Data Analysis of  ecommerce sites data
 
 ### Requirements 
-Ensure you have Python 3 and the package manager `pip` installed.\
+Ensure you have `Python 3` and the package manager `pip` installed.\
 Run the following command to in your jupyter notebook
 ```
 !pip install pyunpack
