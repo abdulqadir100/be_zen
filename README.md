@@ -9,12 +9,12 @@ The CSV file used has the following details about products from various ecommerc
 * Category
 * Level 1 -> This is just a classification of a product.
 
-The following Task from the data was used to find the following results.
+The following results were generated from the data .
 1. Products without prices
-2.Count of products without prices and with prices in each Product Type, Category, Level 1
-3.Correct Product Prices in the correct format (eg: $56) wherever possible and separate them into currency and value columns.
-4. List out the categories with average price of product.
-5. 
+2. Count of products without prices and with prices in each Product Type, Category, Level 1
+3. Correct Product Prices in the correct format (eg: $56) wherever possible and separate them into currency and value columns.
+4. List out the categories with average price of product.\
+
 Brownie Points:  Use graphs to depict this data. 
 Use of Cloud Services : google colab was used
 Guidelines:
