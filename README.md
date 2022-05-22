@@ -2,8 +2,8 @@
 
 ### Description
 The CSV file used has the following details about products from various ecommerce sites.
-*UUID (Primary Key)
-*Price (String)
+* UUID (Primary Key)
+* Price (String)
 *Price_unfiltered (String)
 *Product Type
 *Category
