@@ -1,4 +1,4 @@
-# be_zen
+# Data Analysis of  ecommerce sites data
 
 ### Requirements 
 Ensure you have Python 3 and the package manager `pip` installed.\
