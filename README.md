@@ -1,5 +1,19 @@
 # be_zen
 
+### Requirements
+
+!pip install pyunpack
+!pip install rarfile
+!pip install patool
+!pip install gdown
+
+!pip install numpy
+!pip install pandas
+!pip install matplotlib
+!pip install seaborn
+!pip install pyspark
+!pip install findspark
+
 ### Data Set
 The CSV file used has the following details about products from various ecommerce sites.
 * UUID (Primary Key)
