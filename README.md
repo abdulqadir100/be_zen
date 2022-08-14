@@ -1,4 +1,4 @@
-# Data Analysis of  ecommerce sites data
+# Data Analysis of an ecommerce website's data
 
 ### Requirements 
 Ensure you have `Python 3` and the package manager `pip` installed.\
